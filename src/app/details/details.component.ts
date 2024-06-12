@@ -6,6 +6,7 @@ import { ActivatedRoute } from '@angular/router';
   selector: 'app-details',
   standalone: true,
   imports: [CommonModule],
+  templateUrl: 'details.html',
   template: `
     <p>
       details works! {{housingLocationId}}

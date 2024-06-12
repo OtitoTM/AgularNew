@@ -20,5 +20,5 @@ import { Router, RouterModule } from '@angular/router';
   imports: [HomeComponent, RouterModule]
 })
 export class AppComponent {
-  title = 'homes';
+  title = 'Westview Homes';
 }
